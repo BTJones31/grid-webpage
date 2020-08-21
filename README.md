@@ -1,0 +1,1 @@
+This was my first attempt at using a grid layout for a webpage.  There are many things I learned, but definitely a few things I didn't quite figure out yet.  Practice makes perfect, onwards and upwards.
